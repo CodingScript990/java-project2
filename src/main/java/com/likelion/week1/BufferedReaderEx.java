@@ -21,4 +21,14 @@ public class BufferedReaderEx {
 				System.out.println("br1 = " + br.readLine());
 				System.out.println("br2 = " + br.readLine());
 		}
+
+		// Class plusTwoNumbers => Read Two Line [object1, object2]
+		public void plusTwoNumbers() throws IOException {
+				// InputStreamReader 라는 Class 를 is 라는 name 으로 선언해줌
+				InputStreamReader is = new InputStreamReader(System.in);
+				// BufferedReader 라는 Class 를 br 라는 name 으로 선언해줌
+				BufferedReader br = new BufferedReader(is);
+				// Output 1줄 출력[String + String]
+				System.out.println("br = " + br.readLine() + br.readLine());
+		}
 }
