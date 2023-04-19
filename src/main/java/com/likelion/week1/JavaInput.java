@@ -13,7 +13,9 @@ public class JavaInput {
 
 		// Class Add => readTwoChars
 		public void readTwoChars() throws IOException {
-				InputStreamReader is = new InputStreamReader(System.in);
+				// 단축키 => Ctrl + Alt + v
+				InputStreamReader inputStreamReader = new InputStreamReader(System.in);
+				InputStreamReader is = inputStreamReader;
 
 				// 아스키코드로 읽어오는 Object 2개 Add
 				int asciiCode1 = is.read(); // 아스키코드 1
