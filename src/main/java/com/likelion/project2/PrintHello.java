@@ -1,7 +1,7 @@
 package com.likelion.project2;
 
 public class PrintHello {
-		void print() {
+		public void print() {
 				System.out.println("Hello");
 		}
 }
