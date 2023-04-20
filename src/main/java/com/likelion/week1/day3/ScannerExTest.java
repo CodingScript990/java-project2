@@ -1,4 +1,4 @@
-package com.likelion.week1;
+package com.likelion.week1.day3;
 
 public class ScannerExTest {
 		public static void main(String[] args) {
