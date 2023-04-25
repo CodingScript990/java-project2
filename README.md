@@ -7,4 +7,4 @@
 
 2. Week 2 [April.24.2023 - April.28.2023]
  - April. 24[CodeUp(Algorithms - 1021 ~ 1023, 1028 ~ 1030), Java(Git[Push, Branch add, Merge, Commit], DefineAVariable[primitive type], DivideIntoTwo[Float, Int], FloatAndDoubles[Float, Double], FloatDigit[Float length], FloatLength[Float length, Double length], FloatNumParse[Float type, Integer, parseInt], NumberFormatException1[NumberFormatException error code], ParseDouble8Digits[Dobule type], StringPlusInt[new String operator], VariableEx[Variable Type], BooleanEx[BooleanType])
- - April. 25[CodeUp(Algorithms - 1031 ~ 1037), Java(
+ - April. 25[CodeUp(Algorithms - 1019, 1020, 1024 ~ 1027, 1038 ~ 1041), Java(Git[Push, Branch add, Merge, Commit], AccountMessage[String Formatting], ArrayDefineAndPrint4[Array using], ArraysToString[int array => string array], DefAndInitArr[array default], ReferenceTypeArray[array type(float, string)], StringEquals[string == operator, equals], StringFormatting[String formatting], StringSplit[String Split], StringSub[String subString], StudentMathScore[array using])
