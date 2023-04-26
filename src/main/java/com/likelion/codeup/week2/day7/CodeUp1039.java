@@ -1,8 +1,8 @@
-package com.likelion.codeup;
+package com.likelion.codeup.week2.day7;
 
 import java.util.Scanner;
-
-public class CodeUp1038 {
+// 2023.4.25
+public class CodeUp1039 {
 		public static void main(String[] args) {
 				Scanner sc = new Scanner(System.in);
 
