@@ -1,16 +1,16 @@
-package com.likelion.codeup;
+package com.likelion.codeup.week2.day6;
 
 import java.util.Scanner;
-
-public class CodeUp1022 {
+// 2023.4.24
+public class CodeUp1021 {
 		public static void main(String[] args) {
 				// new operator
 				Scanner sc = new Scanner(System.in);
 
 				// String type
-				String sData = sc.nextLine();
+				String sDate = sc.nextLine();
 
 				// output
-				System.out.printf("%s",sData);
+				System.out.printf("%s",sDate);
 		}
 }

@@ -1,7 +1,7 @@
-package com.likelion.codeup;
+package com.likelion.codeup.week2.day6;
 
 import java.util.Scanner;
-
+// 2023.4.24
 public class CodeUp1030 {
 		public static void main(String[] args) {
 				// new operator
