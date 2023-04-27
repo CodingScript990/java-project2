@@ -22,6 +22,6 @@ public class ClassInSchoolTest {
 
 				// output
 				System.out.println("classInSchool 1반 선생님 이름 : " + classInSchool.teacher.name);
-				System.out.printf("%d반 담임 선생님 성함은 %s이고, 학생 이름은 %s입니다.", classInSchool.no, classInSchool.teacher, classInSchool.students[0].name);
+				System.out.printf("%d반 담임 선생님 성함은 %s이고, 학생 이름은 %s입니다.", classInSchool.no, classInSchool.teacher.name, classInSchool.students[0].name);
 		}
 }
