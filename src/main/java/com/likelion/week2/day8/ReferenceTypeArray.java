@@ -9,13 +9,13 @@ public class ReferenceTypeArray {
 
 				// Student Class 초기화[0]
 				students[0] = new Student();
-				students[0].name = "Test"; // Student Class 초기화 후 Class type 사용!
+				students[0].name = "GreatestCommonDivisor"; // Student Class 초기화 후 Class type 사용!
 				students[0].phoneNumber = "010-1234-5678";
 				students[0].age = 20;
 
 				// Student Class 초기화[1]
 				students[1] = new Student();
-				students[1].name = "Test2";
+				students[1].name = "LeastCommonMultiple";
 				students[1].phoneNumber = "010-1111-2222";
 				students[1].age = 21;
 
